@@ -1,5 +1,5 @@
 function getAccount (clientName, version) {
-	var log = "Client: ";
+	var log = "Client Name: ";
 	function getFullLog () { 
 		return log + clientName + " " + version;   
 	}
