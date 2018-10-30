@@ -6,5 +6,5 @@ function getAccount (clientName, version) {
 	return getFullLog ();
 }
 
-getAccount("Perdue", 15);
+getAccount("L.L.Bean", 15);
 
